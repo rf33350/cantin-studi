@@ -17,3 +17,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- prices/Tarif1.md
