@@ -1,7 +1,7 @@
 ---
-titre_prestation: Juste moi
-prix_prestation: 130 euros
-description_prestation: Séance pour une personne, en extérieur ou en studio.
+titre_prestation: Mon bébé
+prix_prestation: 100 euros
+description_prestation: Photo d’enfant jusqu’à 3 ans (photo à domicile).
 title: price5.md
 
 ---
