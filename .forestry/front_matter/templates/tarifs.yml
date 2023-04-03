@@ -26,5 +26,3 @@ fields:
     schema:
       format: markdown
   label: description prestation
-pages:
-- src/prices/price2.md.md
