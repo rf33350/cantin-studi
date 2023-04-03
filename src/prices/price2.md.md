@@ -1,7 +1,7 @@
 ---
-titre_prestation: Juste moi
-prix_prestation: 130 euros
-description_prestation: Séance pour une personne, en extérieur ou en studio.
+titre_prestation: Pour deux
+prix_prestation: 195 euros
+description_prestation: Pour deux personnes, en extérieur ou en studio.
 title: price2.md
 
 ---
