@@ -36,6 +36,6 @@ Photo d’enfant jusqu’à 3 ans (photo à domicile).
 
 ## J’immortalise l’événement
 
-\*Sur mesure*
+_Sur mesure_
 
 Prestation de mariage ou baptême sur devis.
