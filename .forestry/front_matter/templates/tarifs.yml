@@ -2,21 +2,16 @@
 label: Tarifs
 hide_body: false
 fields:
-- name: prix_prestation
-  type: number
-  label: prix prestation
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
 - name: titre_prestation
   type: text
   config:
     required: false
   label: titre prestation
+- name: prix_prestation
+  type: text
+  config:
+    required: false
+  label: prix prestation
 - name: description_prestation
   type: textarea
   default: ''
