@@ -8,7 +8,9 @@ sections:
   path: prices
   label: tarifs
   create: all
-  match: "**/*"
+  match: src/*
+  templates:
+  - tarifs
 upload_dir: src/images/uploads
 public_path: images/uploads
 front_matter_path: ''
