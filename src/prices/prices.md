@@ -1,26 +1,38 @@
 ---
 
 ---
-`##`Juste moi - **130 euros**
+## Juste moi 
 
-_Séance pour une personne, en extérieur ou en studio._
+_130 euros_
 
-`##`Pour deux - **195 euros**
+Séance pour une personne, en extérieur ou en studio.
 
-_Pour deux personnes, en extérieur ou en studio._
+## Pour deux 
 
-`##`Famille - **220 euros**
+_195 euros_
 
-_Pour la famille ou les amis jusqu’à 4 personnes, en extérieur ou en studio. 30 euros en supplément par personne au-delà de 4 (hormis enfant jusqu’à 2 ans)_
+Pour deux personnes, en extérieur ou en studio.
 
-`##`Il était une fois - **160 euros**
+## Famille 
 
-_Photo de grossesse (À votre domicile, en extérieur ou en studio)._
+_220 euros_
 
-`##`Mon bébé - **100 euros**
+Pour la famille ou les amis jusqu’à 4 personnes, en extérieur ou en studio. 30 euros en supplément par personne au-delà de 4 (hormis enfant jusqu’à 2 ans)
 
-_Photo d’enfant jusqu’à 3 ans (photo à domicile)._
+## Il était une fois 
 
-`##`J’immortalise l’événement - **Sur mesure**
+_160 euros_
 
-_Prestation de mariage ou baptême sur devis._
+Photo de grossesse (À votre domicile, en extérieur ou en studio).
+
+## Mon bébé 
+
+_100 euros_
+
+Photo d’enfant jusqu’à 3 ans (photo à domicile).
+
+## J’immortalise l’événement 
+
+\*Sur mesure*
+
+Prestation de mariage ou baptême sur devis.
