@@ -1,7 +1,9 @@
 ---
-titre_prestation: Juste moi
-prix_prestation: 130 euros
-description_prestation: Séance pour une personne, en extérieur ou en studio.
+titre_prestation: Famille
+prix_prestation: 220 euros
+description_prestation: |-
+  Pour la famille ou les amis jusqu’à 4 personnes, en extérieur ou en studio
+  30 euros en supplément par personne au-delà de 4 (hormis enfant jusqu’à 2 ans).
 title: price3.md
 
 ---
