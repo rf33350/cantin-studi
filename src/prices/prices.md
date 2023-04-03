@@ -1,6 +1,7 @@
 ---
-
+layout: layout.njk
 ---
+
 ## Juste moi 
 
 _130 euros_
