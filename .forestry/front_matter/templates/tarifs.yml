@@ -27,5 +27,4 @@ fields:
       format: markdown
   label: description prestation
 pages:
-- src/prices/price1.md
 - src/prices/price2.md.md
