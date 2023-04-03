@@ -5,3 +5,6 @@ description_prestation: Photo d’enfant jusqu’à 3 ans (photo à domicile).
 title: price5.md
 
 ---
+Mon bébé 100 euros
+
+Photo d’enfant jusqu’à 3 ans (photo à domicile).
