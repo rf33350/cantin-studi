@@ -1,4 +1,18 @@
 ---
 label: Tarifs
 hide_body: false
-fields: []
+fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: Titre
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
