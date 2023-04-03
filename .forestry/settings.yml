@@ -9,8 +9,6 @@ sections:
   label: tarifs
   create: all
   match: "*"
-  templates:
-  - tarifs
 upload_dir: src/images/uploads
 public_path: images/uploads
 front_matter_path: ''
