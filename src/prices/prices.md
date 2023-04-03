@@ -2,7 +2,7 @@
 layout: layout.njk
 
 ---
-Vous trouverez ici les tarifs que je vous propose pour diverses prestations.
+Vous trouverez ici les tarifs que je vous propose pour diverses prestations:
 
 ## Juste moi
 
