@@ -2,5 +2,3 @@
 label: Tarifs
 hide_body: false
 fields: []
-pages:
-- src/prices/price1.md
