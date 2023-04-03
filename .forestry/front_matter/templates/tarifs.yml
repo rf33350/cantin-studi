@@ -1,25 +1,6 @@
 ---
 label: Tarifs
 hide_body: false
-fields:
-- name: titre_prestation
-  type: text
-  config:
-    required: false
-  label: titre prestation
-- name: prix_prestation
-  type: text
-  config:
-    required: false
-  label: prix prestation
-- name: description_prestation
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: description prestation
+fields: []
 pages:
 - src/prices/price1.md
