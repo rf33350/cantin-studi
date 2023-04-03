@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: layout2.njk
 
 ---
 Vous trouverez ici les tarifs que je vous propose pour diverses prestations:
