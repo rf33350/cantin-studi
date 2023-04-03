@@ -1,7 +1,7 @@
 ---
-titre_prestation: Juste moi
-prix_prestation: 130 euros
-description_prestation: Séance pour une personne, en extérieur ou en studio.
+titre_prestation: Il était une fois
+prix_prestation: 160 euros
+description_prestation: Photo de grossesse (À votre domicile, en extérieur ou en studio).
 title: price4.md
 
 ---
