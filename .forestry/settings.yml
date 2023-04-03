@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: prices
+  path: src/prices
   label: tarifs
   create: all
-  match: src/*
+  match: "*"
   templates:
   - tarifs
 upload_dir: src/images/uploads
