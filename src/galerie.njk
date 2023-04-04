@@ -6,3 +6,59 @@ layout: layout.njk
 <div class="text-center">
     <h1>{{title}}</h1>
 </div>
+
+<div id="button-container">
+    <button class="btn btn-secondary" onclick="filter('all')">Toutes les photos</button>
+    <button class="btn btn-secondary" onclick="filter('mariage')">mariages</button>
+    <button class="btn btn-secondary" onclick="filter('grossesse')">grossesse</button>
+    <button class="btn btn-secondary" onclick="filter('bebe')">bébés</button>
+    <button class="btn btn-secondary" onclick="filter('famille')">famille</button>
+    <button class="btn btn-secondary" onclick="filter('bapteme')">bapteme</button>
+    <button class="btn btn-secondary" onclick="filter('couple')">couple</button>
+    <button class="btn btn-secondary" onclick="filter('portrait')">portrait</button>
+</div>
+
+<div class="row">
+    <img class="card-img mariage" src="/images/uploads/pexels-mariage-1.jpg" alt="Photo mariage 1">
+    <img class="card-img bebe" src="/images/uploads/pexels-bebe-1.jpg" alt="Photo bebe 1">
+    <img class="card-img famille" src="/images/uploads/pexels-famille-1.jpg" alt="Photo famille 1">
+    <img class="card-img couple" src="/images/uploads/pexels-couple-1.jpg" alt="Photo couple 1">
+    <img class="card-img portrait" src="/images/uploads/pexels-portrait-1.jpg" alt="Photo portrait 1">
+    <img class="card-img bapteme" src="/images/uploads/pexels-bapteme-1.jpg" alt="Photo bapteme 1">
+    <img class="card-img grossesse" src="/images/uploads/pexels-grossesse-1.jpg" alt="Photo grossesse 1">
+
+    <img class="card-img mariage" src="/images/uploads/pexels-mariage-2.jpg" alt="Photo mariage 2">
+    <img class="card-img bebe" src="/images/uploads/pexels-bebe-2.jpg" alt="Photo bebe 2">
+    <img class="card-img famille" src="/images/uploads/pexels-famille-2.jpg" alt="Photo famille 2">
+    <img class="card-img couple" src="/images/uploads/pexels-couple-2.jpg" alt="Photo couple 2">
+    <img class="card-img portrait" src="/images/uploads/pexels-portrait-2.jpg" alt="Photo portrait 2">
+    <img class="card-img bapteme" src="/images/uploads/pexels-bapteme-2.jpg" alt="Photo bapteme 2">
+    <img class="card-img grossesse" src="/images/uploads/pexels-grossesse-2.jpg" alt="Photo grossesse 2">
+
+    <img class="card-img mariage" src="/images/uploads/pexels-mariage-3.jpg" alt="Photo mariage 3">
+    <img class="card-img bebe" src="/images/uploads/pexels-bebe-3.jpg" alt="Photo bebe 3">
+    <img class="card-img famille" src="/images/uploads/pexels-famille-3.jpg" alt="Photo famille 3">
+    <img class="card-img couple" src="/images/uploads/pexels-couple-3.jpg" alt="Photo couple 3">
+    <img class="card-img portrait" src="/images/uploads/pexels-portrait-3.jpg" alt="Photo portrait 3">
+    <img class="card-img bapteme" src="/images/uploads/pexels-bapteme-3.jpg" alt="Photo bapteme 3">
+    <img class="card-img grossesse" src="/images/uploads/pexels-grossesse-3.jpg" alt="Photo grossesse 3">
+</div>
+
+ <script>
+      function filter(criterion) {
+        const images = document.getElementsByTagName("img");
+        if (criterion === "all") {
+            Array.from(images).forEach((img) => {
+            img.style.display = "block";
+            });
+        } else {
+            Array.from(images).forEach((img) => {
+                if (img.classList.contains(criterion)) {
+                    img.style.display = "block";
+                } else {
+                    img.style.display = "none";
+                }
+            });
+        }
+}
+</script>

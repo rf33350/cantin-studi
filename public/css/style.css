@@ -39,6 +39,14 @@ body {
     height: auto;
 }
 
+.card-img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  object-fit: scale-down;
+}
 
 @media (min-width: 500px) { 
 
@@ -55,5 +63,9 @@ body {
         width: 150px;
         height: auto;
     }
-
+    .card-img {
+      
+      width: 20%;
+      
+    }
 }
