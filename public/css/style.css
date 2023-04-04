@@ -39,13 +39,18 @@ body {
     height: auto;
 }
 
-.card-img {
+.cont-img {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 100%;
   height: auto;
-  border-radius: 5px;
   object-fit: scale-down;
+}
+
+.btn {
+  width: 110px;
+  font-size: 10px;
+  margin-top: 5px;
 }
 
 @media (min-width: 500px) { 
@@ -63,9 +68,11 @@ body {
         width: 150px;
         height: auto;
     }
-    .card-img {
-      
+    .cont-img {
       width: 20%;
-      
+    }
+    .btn {
+      width: 150px;
+      font-size: 15px;
     }
 }
