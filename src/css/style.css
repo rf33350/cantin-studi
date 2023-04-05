@@ -15,7 +15,7 @@ h1 {
 .navbar {
   margin-top: 5px;
   background-color: #D5C7BC;
-  border-radius: 5px;
+  border-radius: 5px 5px 0 0;
 }
 
 .nav-link {
@@ -70,9 +70,8 @@ h1 {
 }
 
 .footer-container {
-  margin-top: 5px;
   background-color: #D5C7BC;
-  border-radius: 5px;
+  border-radius: 0 0 5px 5px;
 }
 
 @media (min-width: 500px) { 
