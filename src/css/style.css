@@ -23,8 +23,10 @@ h1 {
 }
 
 .image-container {
-    position: relative;
-  }
+  position: relative;
+  margin-top: 150px;
+  margin-bottom: 150px;
+ }
   
 .image-container img {
   display: block;
@@ -76,6 +78,11 @@ h1 {
 
 @media (min-width: 500px) { 
 
+  .image-container {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   }
     .image-container h1 {
         font-size: 3em;
       }
