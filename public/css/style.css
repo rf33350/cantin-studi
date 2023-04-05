@@ -7,6 +7,21 @@ body {
   margin-right: 10px;
 }
 
+h1 {
+  color: #93B7BE;
+}
+
+
+.navbar {
+  margin-top: 5px;
+  background-color: #D5C7BC;
+  border-radius: 5px;
+}
+
+.nav-link {
+  color: #47555E;
+}
+
 .image-container {
     position: relative;
   }
@@ -22,7 +37,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: #F1FFFA;
   font-size: 1em;
   text-align: center;
   width: 100%;
@@ -51,6 +66,13 @@ body {
   width: 110px;
   font-size: 10px;
   margin-top: 5px;
+  background-color: #47555E;
+}
+
+.footer-container {
+  margin-top: 5px;
+  background-color: #D5C7BC;
+  border-radius: 5px;
 }
 
 @media (min-width: 500px) { 
