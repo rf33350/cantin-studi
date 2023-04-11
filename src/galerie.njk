@@ -44,21 +44,4 @@ layout: layout.njk
     <img class="cont-img grossesse" src="/images/uploads/pexels-grossesse-3.jpg" alt="Photo grossesse 3">
 </div>
 
- <script>
-      function filter(criterion) {
-        const images = document.getElementsByClassName("cont-img");
-        if (criterion === "all") {
-            Array.from(images).forEach((img) => {
-            img.style.display = "block";
-            });
-        } else {
-            Array.from(images).forEach((img) => {
-                if (img.classList.contains(criterion)) {
-                    img.style.display = "block";
-                } else {
-                    img.style.display = "none";
-                }
-            });
-        }
-}
-</script>
+<script src="/js/filterImages.js"></script>
